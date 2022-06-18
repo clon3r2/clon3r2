@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=clon3r2)
-<!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clon3r2&hide=contribs,prs,issues&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clon3r2&layout=compact)](https://github.com/clon3r2/github-readme-stats)
