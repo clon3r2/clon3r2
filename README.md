@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clon3r2&hide=contribs,prs,issues&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clon3r2&hide=contribs,prs,issues&show_icons=true&theme=onedark&align=center)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clon3r2&layout=compact)](https://github.com/clon3r2/github-readme-stats)
