@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 😊 Ask me about **python**
-- 📍 Living in Tehran/Iran
+- 📍 Living in **Tehran/Iran**
 - 📮 Reach me **Alirezac257@gmail.com**
 - 💬 Text me **+989366571599**
 
