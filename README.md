@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<div style='text-align:center'>
+<!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clon3r2)](https://github.com/clon3r2/github-readme-stats)
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clon3r2&hide=contribs,prs)
